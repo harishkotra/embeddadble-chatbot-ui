@@ -70,8 +70,6 @@ We appreciate your interest in our project and look forward to your feedback as 
 
 3. The chatbot widget will automatically initialize and appear on your page.
 
-[... rest of the README content remains the same ...]
-
 ## Configuration Options
 
 | Option | Type | Description | Default |
